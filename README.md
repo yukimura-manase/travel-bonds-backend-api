@@ -1,5 +1,7 @@
 # Travel Bonds App BackEnd API
 
+- AI コンシェルジュによる旅先提案アプリ BackEnd API
+
 - Qiita ハッカソン 2024 (2024/2/10〜2/11) に参加した際に開発した作品
 
 ## App 概要
